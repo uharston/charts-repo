@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2021-04-22T18:14:40.912Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" version="14.6.1" etag="_xZW0nk_XLtDtGNyhaVE" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">7VhZc9MwEP41Hp5gfBQnecRp0wKhU2ihw6NiK7aI7DWynINfzyqWYzsOOYD0yDQv0a43K2m/b4/YcPrx/FKQNPoEAeWGbQZzwzk3bNuybQe/lGZRaLq9bqEIBQu0UaW4Zb+oVppam7OAZg1DCcAlS5tKH5KE+rKhI0LArGk2Bt7cNSUhbSlufcLb2nsWyEjfwu5U+ivKwqjc2XJ7xZOYlMb6JllEApjVVM6F4fQFgCxW8bxPuQpeGZf794t7Ppy4lx8+Zz/JV+/j3fW314WzwSE/WV1B0ET+X9d24XpKeK7jpe8qF2UABeRJQJUT03C8SMYclxYuf1ApFxpwkktAFQgZQQgJ4UOAVNuNIZHazFIyTYJ3CliURxz8SaEaMM71Hihp+y5KmRQwWWGnHKyAUMacjCj3iD8JlwftAweBjxJIqHIVIBn0XarDXVRab8/YagwyyIVPt9jpbJFEhHSbP7ewU+er8VQjd0khplIs0EBQTiSbNslMdE6EK7sKd1xo6A+ggdOiwZDEqcp6oFnySuJqBmKyhRsKl1nEJL1NyTJAMywnTb7UeYBX9UJOskyjuAPkw0CaUiHpfGtYy6euzu2yuGlxVlUKq0z/qFYlzswjAXHWAuI7Fs+XlPyXlHT3TMmyY+3MSU2Wkhh7p6j2dAMskTUTGI8zPNg6dVYb/j2b3rbYdA0tMu3G41nT7ZHI1DmMS9aT55L7hxbhcgyDNxK4CtUq5XkYIlnQXWI4g3btiiAe5dnudtHAWDFoQGLGVbyuKJ9SyXyyoakQzkLc99xHuKnYTB7ckiUhSm4l3S3JivX3iM2m02w2K7nebcwN3aZ7rG7TaWF6g+gV0NkmX+J7Yh3fsddA6D12y+/uU6SfdQl+8I5fVtPdLd/as0xr9phvHPw0CPT0p4DeXjPlyxhwHIbZpzYIlCes8cnL+ag9CYxykSwHAcjlyySwbRKwNzWhB50EykJYA/ULTQlDMM3hKc4B6//8z5zHngPKStGEgKuY2maRYSeGwfos5ljHwwDF6k1tUQqr993OxW8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-22T18:39:15.751Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="TRu5iYxi6sfRK0IjjAux" version="14.6.1" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="946" dy="1783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="xR7rDK8oxTlF8y6qu9ON-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xR7rDK8oxTlF8y6qu9ON-0" target="xR7rDK8oxTlF8y6qu9ON-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xR7rDK8oxTlF8y6qu9ON-0" value="&lt;font style=&quot;font-size: 25px&quot;&gt;Landing Page&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="630" y="-70" width="230" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="xR7rDK8oxTlF8y6qu9ON-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xR7rDK8oxTlF8y6qu9ON-5" target="xR7rDK8oxTlF8y6qu9ON-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xR7rDK8oxTlF8y6qu9ON-5" value="&lt;font style=&quot;font-size: 25px&quot;&gt;Azure B2C&amp;nbsp;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="607.5" y="177.5" width="275" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="xR7rDK8oxTlF8y6qu9ON-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xR7rDK8oxTlF8y6qu9ON-9" target="xR7rDK8oxTlF8y6qu9ON-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xR7rDK8oxTlF8y6qu9ON-9" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;font style=&quot;font-size: 25px&quot;&gt;Payload&lt;/font&gt;&lt;/div&gt;&lt;ul style=&quot;font-size: 18px&quot;&gt;&lt;li style=&quot;text-align: justify&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Email&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;First Name&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Last Name&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;strokeColor=#2D7600;fillColor=#60a917;align=center;fontColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="596.25" y="380" width="297.5" height="265" as="geometry" />
+        </mxCell>
+        <mxCell id="xR7rDK8oxTlF8y6qu9ON-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xR7rDK8oxTlF8y6qu9ON-11" target="xR7rDK8oxTlF8y6qu9ON-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xR7rDK8oxTlF8y6qu9ON-11" value="&lt;font style=&quot;font-size: 25px&quot;&gt;GraphQL&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontColor=#ffffff;strokeColor=#001DBC;fillColor=#0050ef;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="656.88" y="700" width="176.25" height="195" as="geometry" />
+        </mxCell>
+        <mxCell id="xR7rDK8oxTlF8y6qu9ON-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xR7rDK8oxTlF8y6qu9ON-13" target="xR7rDK8oxTlF8y6qu9ON-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xR7rDK8oxTlF8y6qu9ON-13" value="&lt;span style=&quot;font-size: 25px&quot;&gt;Profile MicroService&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontColor=#ffffff;strokeColor=#006EAF;fillColor=#1ba1e2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="568.44" y="975" width="353.12" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="xR7rDK8oxTlF8y6qu9ON-15" value="&lt;font style=&quot;font-size: 25px&quot; color=&quot;#000000&quot;&gt;SQL Server&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontColor=#ffffff;strokeColor=#B09500;fillColor=#e3c800;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="260.01" y="1340" width="970" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="xR7rDK8oxTlF8y6qu9ON-17" value="&lt;div&gt;Steps&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;Save UserAccount &amp;amp; UserEmail&lt;br&gt;&lt;/li&gt;&lt;li&gt;Save a Profile&amp;nbsp;&lt;/li&gt;&lt;li&gt;Return idUserAccount&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="850" y="1110" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="xR7rDK8oxTlF8y6qu9ON-18" value="&lt;b&gt;&lt;font style=&quot;font-size: 23px&quot;&gt;User Sign Up Flow&amp;nbsp;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left ; font-size: 15px&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;u&gt;Client Request 1 Objective:&lt;/u&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;- Save a User Account with and a Profile&lt;br&gt;&lt;br&gt;Tables to be created minimum:&lt;br&gt;1. UserAccount&lt;br&gt;2.UserEmail&lt;br&gt;3.AccountSettings&lt;br&gt;4.Visibility&lt;br&gt;5.Profile&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="530" y="-410" width="452.5" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="xR7rDK8oxTlF8y6qu9ON-19" value="Much of the minumum&amp;nbsp;&lt;br&gt;tables and fields will be&amp;nbsp;&lt;br&gt;created with default values." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="893.75" y="-270" width="220" height="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
